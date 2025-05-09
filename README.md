@@ -36,7 +36,7 @@ npm install git -y
 
 ```bash
 # Clone repo
-git clone https://github.com/RullzFuqi/Kyoru-MD
+git clone https://github.com/RullzFuqi/Fuqi-MD
 ```
 ```bash
 # Masuk ke folder
