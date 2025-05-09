@@ -3,7 +3,7 @@
   <img src="https://files.catbox.moe/i9fr21.jpeg" width="150" alt="Logo" />
 </p>
 
-<h1 align="center">Kyoru - MD</h1>
+<h1 align="center">Fuqi - MD</h1>
 
 <p align="center">
   Multi Device Bot WhatsApp
@@ -40,7 +40,7 @@ git clone https://github.com/RullzFuqi/Kyoru-MD
 ```
 ```bash
 # Masuk ke folder
-cd 'Kyoru-MD'
+cd 'Fuqi-MD'
 ```
 
 ```bash
