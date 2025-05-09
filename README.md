@@ -3,14 +3,14 @@
   <img src="https://files.catbox.moe/i9fr21.jpeg" width="150" alt="Logo" />
 </p>
 
-<h1 align="center">Kyoru - MD</h1>
+<h1 align="center">Fuqi - MD</h1>
 
 <p align="center">
   Multi Device Bot WhatsApp
   <br />
-  <a href="#🚀-installation">Cara Install</a> •
-  <a href="#▶️-usage">Cara Pakai</a> •
-  <a href="#✨-features">Fitur</a>
+  <a href="#🚀-Installation">Cara Install</a> •
+  <a href="#▶️-Usage">Cara Pakai</a> •
+  <a href="#✨-Features">Fitur</a>
 </p>
 
 ---
@@ -29,11 +29,24 @@
 ## 🚀 Installation
 
 ```bash
+# Instalasi Package
+pkg install nodejs -y
+pkg install git -y
+
 # Clone repo
 git clone https://github.com/RullzFuqi/Kyoru-MD
 
 # Masuk ke folder
-cd 'Kyoru-MD'
+cd 'Fuqi-MD'
 
 # Install dependencies
 npm install
+```
+
+## ▶️ Usage
+```bash
+
+# Melihat Menu
+.menu
+# Melihat Semua Menu
+.allmenu
