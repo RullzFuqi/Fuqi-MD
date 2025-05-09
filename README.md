@@ -8,9 +8,9 @@
 <p align="center">
   Multi Device Bot WhatsApp
   <br />
-  <a href="#🚀-installation">Cara Install</a> •
-  <a href="#▶️-usage">Cara Pakai</a> •
-  <a href="#✨-features">Fitur</a>
+  <a href="#🚀-Fnstallation">Cara Install</a> •
+  <a href="#▶️-Usage">Cara Pakai</a> •
+  <a href="#✨-Features">Fitur</a>
 </p>
 
 ---
@@ -46,4 +46,15 @@ cd 'Kyoru-MD'
 ```bash
 # Install dependencies
 npm install
+```
+
+## ▶️ Usage
+```bash
+# Untuk Melihat Menu
+.menu
+```
+
+```bash
+# Untuk Melihat Semua Menu
+.menuall
 ```
