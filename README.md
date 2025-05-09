@@ -29,11 +29,21 @@
 ## 🚀 Installation
 
 ```bash
+# Instalasi Package
+npm install nodejs -y
+npm install git -y
+```
+
+```bash
 # Clone repo
 git clone https://github.com/RullzFuqi/Kyoru-MD
-
+```
+```bash
 # Masuk ke folder
 cd 'Kyoru-MD'
+```
 
+```bash
 # Install dependencies
 npm install
+```
