@@ -1,37 +1,39 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://your-logo-link.png" width="150" alt="Logo" />
+  <img src="https://files.catbox.moe/i9fr21.jpeg" width="150" alt="Logo" />
 </p>
 
-<h1 align="center">Nama Proyek</h1>
+<h1 align="center">Kyoru - MD</h1>
 
 <p align="center">
-  Deskripsi singkat dan menarik tentang proyek kamu.
+  Multi Device Bot WhatsApp
   <br />
-  <a href="#demo">Lihat Demo</a> •
-  <a href="#installation">Cara Install</a> •
-  <a href="#usage">Cara Pakai</a> •
-  <a href="#features">Fitur</a>
+  <a href="#🚀-installation">Cara Install</a> •
+  <a href="#▶️-usage">Cara Pakai</a> •
+  <a href="#✨-features">Fitur</a>
 </p>
 
 ---
 
 ## ✨ Features
-- ⚡ Kinerja cepat
-- ✅ Mudah digunakan
-- 🧩 Modular dan scalable
-- 🌐 Support multi-platform
+- ⚡ **Bot Fast Respons**
+- ✅ **Mudah digunakan**
+- 🧩 **Desain UI Keren**
+- 🌐 **Support WhatsApp Bisnis**
+- ♻️ **Auto Restart & CMD Log**
+- 📱 **Support Pairing Code**
+- ☁️ **Dapat dijalankan di Termux / Panel / VPS**
 
-## 🖼️ Screenshot / Demo
-![Preview](https://your-screenshot-or-gif-link.gif)
+---
 
 ## 🚀 Installation
+
 ```bash
 # Clone repo
-git clone https://github.com/username/repo.git
+git clone https://github.com/RullzFuqi/Kyoru-MD
 
 # Masuk ke folder
-cd repo
+cd 'Kyoru-MD'
 
 # Install dependencies
 npm install
